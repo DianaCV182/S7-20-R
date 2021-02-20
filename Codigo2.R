@@ -1,4 +1,4 @@
 #Comentario
 
-x <- rnorm(100x)
+x <- rnorm(1000)
 plot(x, type = "l")
